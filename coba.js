@@ -1,1 +1,1 @@
-Mau coba
+Console.log
